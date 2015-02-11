@@ -4,6 +4,7 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 ###Motivation 
 - [Angular vs React the Tie Breaker](https://www.airpair.com/angularjs/posts/angular-vs-react-the-tie-breaker)
 - [How to go from jQuery to React](http://stackoverflow.com/questions/23585765/how-to-go-from-jquery-to-react-js)
+- [Pros and Cons of Facebook's React vs. Web Components (Polymer)](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
 
 ###Getting Started
 - [Facebook - Introduction to React(video)](https://www.youtube.com/watch?v=XxVg_s8xAms)
