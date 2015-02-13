@@ -9,6 +9,7 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 
 ###Getting Started
 - [Facebook - Introduction to React(video)](https://www.youtube.com/watch?v=XxVg_s8xAms)
+- [React and Flux: Building Applications with a Unidirectional Data Flow](https://www.youtube.com/watch?v=i__969noyAM)
 - [Egghead - React](https://egghead.io/series/react-fundamentals)
 - [Scotch - Getting Started with React](https://scotch.io/collections/getting-started-with-facebooks-react-js)
 - [Beyond the to-do app: Writing complex applications using Flux & React JS](http://madebymany.com/blog/beyond-the-to-do-app-writing-complex-applications-using-flux-react-js)
