@@ -14,6 +14,9 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 - [Scotch - Getting Started with React](https://scotch.io/collections/getting-started-with-facebooks-react-js)
 - [Beyond the to-do app: Writing complex applications using Flux & React JS](http://madebymany.com/blog/beyond-the-to-do-app-writing-complex-applications-using-flux-react-js)
 
+###Best Practices
+- [An opinionated guide to React.js best practices and conventions](http://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
+
 ###Flux Libraries
 - [Reflux](https://github.com/spoike/refluxjs)
 - [Barracks](https://github.com/yoshuawuyts/barracks)
