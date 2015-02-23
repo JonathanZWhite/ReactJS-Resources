@@ -13,6 +13,7 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 - [Egghead - React](https://egghead.io/series/react-fundamentals)
 - [Scotch - Getting Started with React](https://scotch.io/collections/getting-started-with-facebooks-react-js)
 - [Flux for Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
+- [Getting started with Flux](http://ryanclark.me/getting-started-with-flux/)
 - [Beyond the to-do app: Writing complex applications using Flux & React JS](http://madebymany.com/blog/beyond-the-to-do-app-writing-complex-applications-using-flux-react-js)
 
 ###Best Practices
