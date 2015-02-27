@@ -15,6 +15,7 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 - [Flux for Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
 - [Getting started with Flux](http://ryanclark.me/getting-started-with-flux/)
 - [Beyond the to-do app: Writing complex applications using Flux & React JS](http://madebymany.com/blog/beyond-the-to-do-app-writing-complex-applications-using-flux-react-js)
+- [React JS Tutorial and Guide to the Gotchas](https://zapier.com/engineering/react-js-tutorial-guide-gotchas/)
 
 ###Best Practices
 - [An opinionated guide to React.js best practices and conventions](http://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
