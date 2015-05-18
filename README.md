@@ -26,6 +26,7 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 ###Flux
 (Flux solutions compared by example)[http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example]
 
-###Flux Examples
+###React/Flux Examples
+- [Fluxible.io](https://github.com/yahoo/fluxible.io)
 - [Yahoo! Flux Examples](https://github.com/yahoo/flux-examples)
 - [TODOMVC](http://todomvc.com/examples/react/#/)
