@@ -16,14 +16,10 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 - [Getting started with Flux](http://ryanclark.me/getting-started-with-flux/)
 - [Beyond the to-do app: Writing complex applications using Flux & React JS](http://madebymany.com/blog/beyond-the-to-do-app-writing-complex-applications-using-flux-react-js)
 - [React JS Tutorial and Guide to the Gotchas](https://zapier.com/engineering/react-js-tutorial-guide-gotchas/)
+- [Hello React](https://medium.com/@jetupper/hello-react-js-b87c63526e3a)
 
 ###Best Practices
 - [An opinionated guide to React.js best practices and conventions](http://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
-
-###Flux Libraries
-- [Reflux](https://github.com/spoike/refluxjs)
-- [Barracks](https://github.com/yoshuawuyts/barracks)
-- [Delorean](http://deloreanjs.com/)
 
 ###Flux Examples
 - [Yahoo! Flux Examples](https://github.com/yahoo/flux-examples)
