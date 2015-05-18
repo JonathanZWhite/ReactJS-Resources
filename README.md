@@ -7,7 +7,7 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 - [How to go from jQuery to React](http://stackoverflow.com/questions/23585765/how-to-go-from-jquery-to-react-js)
 - [Pros and Cons of Facebook's React vs. Web Components (Polymer)](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
 
-###Getting Started
+###Getting Started with React/Flux
 - [Facebook - Introduction to React(video)](https://www.youtube.com/watch?v=XxVg_s8xAms)
 - [React and Flux: Building Applications with a Unidirectional Data Flow](https://www.youtube.com/watch?v=i__969noyAM)
 - [Egghead - React](https://egghead.io/series/react-fundamentals)
@@ -22,6 +22,9 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 
 ###Best Practices
 - [An opinionated guide to React.js best practices and conventions](http://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
+
+###Flux
+(Flux solutions compared by example)[http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example]
 
 ###Flux Examples
 - [Yahoo! Flux Examples](https://github.com/yahoo/flux-examples)
