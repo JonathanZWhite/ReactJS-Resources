@@ -26,6 +26,15 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 ###Flux
 (Flux solutions compared by example)[http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example]
 
+###Flux Libraries (sorted by relative popularity)
+[RefluxJS](https://github.com/spoike/refluxjs)
+[Fluxxor](http://fluxxor.com/)
+[Flummox](http://acdlite.github.io/flummox)
+[Fluxible](http://fluxible.io/)
+[MartyJS](https://github.com/martyjs/marty)
+[Alt](https://github.com/goatslacker/alt)
+[Delorean](https://github.com/deloreanjs/delorean)
+
 ###React/Flux Examples
 - [Fluxible.io](https://github.com/yahoo/fluxible.io)
 - [Yahoo! Flux Examples](https://github.com/yahoo/flux-examples)
