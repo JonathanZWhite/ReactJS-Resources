@@ -24,7 +24,7 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 - [An opinionated guide to React.js best practices and conventions](http://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 
 ###Flux
-[Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
+- [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 
 ###Flux Libraries (sorted by relative popularity)
 - [RefluxJS](https://github.com/spoike/refluxjs)
