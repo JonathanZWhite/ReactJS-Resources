@@ -20,6 +20,9 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 - [React.js Tutorial Pt 1: A Comprehensive Guide to Building Apps with React.js](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 - [React.js Tutorial Pt 2: Building React Applications with Gulp and Browserify.](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/)
 
+###State
+[Props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+
 ###Best Practices
 - [An opinionated guide to React.js best practices and conventions](http://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 - [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
