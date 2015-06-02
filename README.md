@@ -27,6 +27,7 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 - [An opinionated guide to React.js best practices and conventions](http://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 - [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 - [An opinionated guide to React.js best practices and conventions](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
+- [Best Practices for Component State in React.js](http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html)
 
 ###Style
 [React Style Guide](http://reactjsnews.com/react-style-guide-patterns-i-like/)
