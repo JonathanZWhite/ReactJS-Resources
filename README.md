@@ -28,6 +28,9 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 - [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 - [An opinionated guide to React.js best practices and conventions](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 
+###Style
+[React Style Guide](http://reactjsnews.com/react-style-guide-patterns-i-like/)
+
 ###Flux
 - [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 
