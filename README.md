@@ -29,6 +29,7 @@ A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES
 - [An opinionated guide to React.js best practices and conventions](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 - [Best Practices for Component State in React.js](http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html)
 - [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750)
+- [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
 
 ###Style
 [React Style Guide](http://reactjsnews.com/react-style-guide-patterns-i-like/)
